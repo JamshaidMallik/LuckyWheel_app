@@ -26,6 +26,7 @@ Make sure you have Flutter installed. You can verify it by running:
 
 ```bash
 flutter doctor
+```
 
 ## Installation
 
@@ -34,20 +35,22 @@ flutter doctor
 ```bash
 git clone https://github.com/JamshaidMallik/LuckyWheel_app.git
 cd LuckyWheel_app
+```
 
 ### Install dependencies
 
 ```bash
 flutter pub get
-
+```
 ### Run the app
 ```bash
 flutter run
 ```
 
+
 ## 🤝 Contributing
--- Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 👨‍💻 Author
 -- Built with ❤️ using Flutter 3.32.0 and Dart 3.8.0
-- **Jamshaid Malik** - Created by [@JamshaidMallik](
+- **Jamshaid Malik** - Created by [@JamshaidMallik]

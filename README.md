@@ -1,16 +1,28 @@
-# luckywheel
+# 🎯 LuckyWheel
 
-🎯 LuckyWheel is a simple Flutter app that lets users spin a customizable wheel to randomly pick a winner from a list of names. Perfect for giveaways, classroom games, or decision-making fun!
+**LuckyWheel** is a fun and interactive Flutter app that allows users to spin a customizable wheel to randomly select a winner from a list of names. Ideal for giveaways, classroom activities, games, or making decisions!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Spin a colorful, animated wheel
+- Add and remove participant names
+- Fully customizable entries
+- Random winner selection
+- Smooth animations and sound effects
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- **Flutter**: 3.32.0
+- **Dart**: 3.8.0
+- **DevTools**: 2.45.1
+
+Make sure you have Flutter installed. You can verify it by running:
+
+```bash
+flutter doctor

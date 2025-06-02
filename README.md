@@ -3,6 +3,7 @@
 **LuckyWheel** is a fun and interactive Flutter app that allows users to spin a customizable wheel to randomly select a winner from a list of names. Ideal for giveaways, classroom activities, games, or making decisions!
 
 ---
+![Lucky Wheel Screenshot](assets/luckywheel.png)
 
 ## 🚀 Features
 

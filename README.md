@@ -52,5 +52,5 @@ flutter run
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 👨‍💻 Author
--- Built with ❤️ using Flutter 3.32.0 and Dart 3.8.0
-- **Jamshaid Malik** - Created by [@JamshaidMallik]
+Built with ❤️ using Flutter 3.32.0 and Dart 3.8.0
+- [**Jamshaid Malik**](https://github.com/JamshaidMallik)

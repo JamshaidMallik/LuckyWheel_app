@@ -15,7 +15,7 @@ Click the **Fork** button at the top right corner of the repository page to crea
 Use the following command to clone your forked repository locally:
 
 ```bash
-git clone https://github.com/your-username/LuckyWheel_app.git
+git clone https://github.com/JamshaidMallik/LuckyWheel_app
 cd LuckyWheel_app
 ```
 

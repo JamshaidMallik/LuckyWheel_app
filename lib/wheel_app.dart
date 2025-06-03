@@ -15,7 +15,7 @@ class _SpinnerScreenState extends State<SpinnerScreen>
     with SingleTickerProviderStateMixin {
   final player = AudioPlayer();
   bool isSoundEnabled = true; // Sound toggle
-  final List<String> names = ['Jamshaid', 'Malik'];
+  final List<String> names = ['Malik', 'Jamshaid'];
   final List<String> winners = [];
   final TextEditingController nameController = TextEditingController();
   final StreamController<int> selected = StreamController<int>();
